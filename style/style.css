@@ -23,11 +23,11 @@
 .fundo {
     background-image: url(../img/download.jpg);
     background-size: cover;
-    width: 30vw;
-    height: 30vh;
+    width: 67%;
+    height: 40vh;
 }
 .text h1{
-    width: 30vw;
+    width: 60vw;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
@@ -38,7 +38,7 @@
 }
 #lista li {
     list-style-type: none;
-    width: 30vw;
+    width: 40vw;
     margin: 5px;
     background-color: rgba(60, 22, 82, 0.3);
     text-align: center;
